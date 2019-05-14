@@ -1,0 +1,39 @@
+
+@media screen and (min-width: 680px) {
+    .main-contaneir{
+    width: 33%;
+    }
+
+}
+@media screen and (max-width: 680px) {
+    .main-contaneir{
+        display: none;
+    }
+    
+}
+@media screen and (min-width: 680px) {
+   .main-articles{
+        width: 100%;
+    }
+}
+
+.main-articles {
+    margin-bottom: 25px;
+}
+
+@media screen and (min-width: 680px) {
+    main-articles{
+            width: 66%;
+    
+        } 
+        
+    }
+
+@media screen and (max-width: 680px) {
+    main-articles {
+            width: 100%;
+        }
+        
+    }
+
+  
